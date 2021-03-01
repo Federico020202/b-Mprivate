@@ -1913,7 +1913,7 @@
   background-color: #fff;
   background-image: url('../images/B$Mtee.png');
   background-position: 60% 30%;
-  background-size: 900px;
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: scroll;
 }
