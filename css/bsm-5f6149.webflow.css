@@ -1895,6 +1895,16 @@
   background-size: auto;
   background-repeat: no-repeat;
 }
+.section.iphone-12-pros {
+  position: relative;
+  z-index: 7;
+  padding-top: 70vh;
+  background-color: #000;
+  background-image: url('../images/flying-cherry-bottle-BRIGHT.png');
+  background-position: 50% 0%;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
 
 .section.iphone-12 {
   position: relative;
