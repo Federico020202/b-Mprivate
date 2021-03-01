@@ -1901,9 +1901,9 @@
   z-index: 7;
   padding-top: 78vh;
   background-color: #fff;
-  background-image: url('../images/B$MTee.png');
+  background-image: url('../images/BM-natale-2.jpg');
   background-position: 50% 0%;
-  background-size: auto;
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: scroll;
 }
